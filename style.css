@@ -8,6 +8,7 @@ body {
 div {
   /* Your code here! */
   margin:auto;
+  font-family:"Helvetica Nue"
 }
 
 /* ID selector to select the element with id 'main-header' */
