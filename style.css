@@ -9,6 +9,7 @@ div {
   /* Your code here! */
   margin:auto;
   font-family:"Helvetica Nue";
+  background:white;
 }
 
 /* ID selector to select the element with id 'main-header' */
